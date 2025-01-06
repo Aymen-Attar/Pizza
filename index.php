@@ -617,7 +617,7 @@ if(isset($_POST['order'])){
    </div>
 
    <div class="credit">
-      &copy; copyright @ <?= date('Y'); ?> by <span>mr. web designer</span> | all rights reserved!
+      &copy; copyright @ <?= date('Y'); ?> by <span>ToPizza</span> | all rights reserved!
    </div>
 
 </section>
